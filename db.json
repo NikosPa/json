@@ -9,5 +9,28 @@
 { "id" : "5c58549e24ec3b0a3451ac27", "status" : "pending", "title" : "Broken wrist", "description" : "desc", "reason" : "Tooth 22", "dateCreated" : "2019-02-04T15:05:02.632Z", "dateSigned" : "2019-02-04T15:05:02.632Z", "dateExpired" : "2019-02-04T15:05:02.632Z", "dateRefused" : "2019-02-04T15:05:02.632Z", "doctorId" : "5c531a11b718ed3a04d70603", "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 }],
 "doctors": [
   { "id" : "5c531a11b718ed3a04d70603", "firstName": "Yuri", "lastName": "Boica", "userType" : "Doctor", "email" : "doctor@mail.com", "password" : "1234", "__v" : 0 }
+],
+"hospitals": [
+    {
+        "doctors": [],
+        "patients": [],
+        "_id": "5c5af3103648852518e503d8",
+        "country": "Portugal",
+        "__v": 0
+    },
+    {
+        "doctors": [],
+        "patients": [],
+        "_id": "5c5af3133648852518e503d9",
+        "country": "Spain",
+        "__v": 0
+    },
+    {
+        "doctors": [],
+        "patients": [],
+        "_id": "5c5af3143648852518e503da",
+        "country": "Italy",
+        "__v": 0
+    }
 ]
 }
