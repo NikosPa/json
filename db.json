@@ -7,38 +7,38 @@
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c584c19918d312d5024e00b", "status" : "accepted", "title" : "Access to medical record for no tooth", "description" : "This will be a short description of the request. Aliquam cursus pharetra rutrum. Nullam malesuada, mi vel bibendum dignissim, mauris orci posuere neque, vitae dapibus ex felis vitae nunc. ", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T14:28:41.671Z", "dateSigned" : "2019-02-04T14:28:41.671Z", "dateExpired" : "2019-02-04T14:28:41.672Z", "dateRefused" : "2019-02-04T14:28:41.672Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c58549724ec3b0a3451ac26", "status" : "rejected", "title" : "Access to medical record for broken Hand", "description" : "This will be a short description of the request. Phasellus volutpat erat imperdiet nunc tempus pulvinar. Suspendisse tempus nec orci ut fermentum.", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T15:04:55.412Z", "dateSigned" : "2019-02-04T15:04:55.413Z", "dateExpired" : "2019-02-04T15:04:55.413Z", "dateRefused" : "2019-02-04T15:04:55.413Z", "doctorId" : "5c531a11b718ed3a04d70603", "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c58549e24ec3b0a3451ac27", "status" : "pending", "title" : "Access to medical record for broken wrist", "description" : "This will be a short description of the request.Praesent rhoncus lacinia sapien, eu efficitur neque. Aliquam congue quis tortor eu vehicula. Morbi felis ipsum, egestas eget tortor in, sollicitudin lacinia  ", "reason" : "Tooth 22 reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T15:05:02.632Z", "dateSigned" : "2019-02-04T15:05:02.632Z", "dateExpired" : "2019-02-04T15:05:02.632Z", "dateRefused" : "2019-02-04T15:05:02.632Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "status" : "pending", "title" : "Access to medical record for broken leg", "description" : "This will be a short description of the request. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum.", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T14:15:34.297Z", "dateSigned" : "2019-02-04T14:15:34.297Z", "dateExpired" : "2019-02-04T14:15:34.297Z", "dateRefused" : "2019-02-04T14:15:34.297Z", "doctorId" : "5c531a11b718ed3a04d70603", "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c584c19918d312d5024e00c", "status" : "accepted", "title" : "Access to medical record for no tooth", "description" : "This will be a short description of the request. Aliquam cursus pharetra rutrum. Nullam malesuada, mi vel bibendum dignissim, mauris orci posuere neque, vitae dapibus ex felis vitae nunc. ", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T14:28:41.671Z", "dateSigned" : "2019-02-04T14:28:41.671Z", "dateExpired" : "2019-02-04T14:28:41.672Z", "dateRefused" : "2019-02-04T14:28:41.672Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c58549724ec3b0a3451ac56", "status" : "rejected", "title" : "Access to medical record for broken Hand", "description" : "This will be a short description of the request. Phasellus volutpat erat imperdiet nunc tempus pulvinar. Suspendisse tempus nec orci ut fermentum.", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T15:04:55.412Z", "dateSigned" : "2019-02-04T15:04:55.413Z", "dateExpired" : "2019-02-04T15:04:55.413Z", "dateRefused" : "2019-02-04T15:04:55.413Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 },
 { "id" : "5c58549e24ec3b0a3451ac68", "status" : "pending", "title" : "Access to medical record for broken wrist", "description" : "This will be a short description of the request.Praesent rhoncus lacinia sapien, eu efficitur neque. Aliquam congue quis tortor eu vehicula. Morbi felis ipsum, egestas eget tortor in, sollicitudin lacinia  ", "reason" : "Tooth 22 reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T15:05:02.632Z", "dateSigned" : "2019-02-04T15:05:02.632Z", "dateExpired" : "2019-02-04T15:05:02.632Z", "dateRefused" : "2019-02-04T15:05:02.632Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
                 "firstName": "Jerry",
                 "lastName": "Banana",
-                "specialty": "Eye Doctor",
+                "specialty": "Eye Doctor"
             }, "patientId" : "5c531a11b718ed3a04d70603", "__v" : 0 }
 ],
 "doctors": [
