@@ -1,7 +1,39 @@
 { 
   "patients": [
-{ "id" : "5c5850082425e832c03d93d9", "firstName": "James", "lastName": "Bond", "userType" : "Patient", "email" : "patient@mail.com", "password" : "1234", "__v" : 0 },
-{ "id" : "5c5850132425e832c03d93da", "firstName": "Neri", "lastName": "Castillo", "userType" : "Patient", "email" : "patient2@mail.com", "password" : "1234", "__v" : 0 }],
+            {
+            "patientId": "5c63fab65dbdd42d84b8e469",
+            "firstName": "Senior",
+            "lastName": "Calle",
+            "middleName": "test",
+            "email": "patientNo33@mail.com",
+            "SSN": "123-111-781",
+            "dateOfBirth": "2019-02-13T11:08:38.711Z",
+            "fatherName": "Jorge",
+            "address": "Ali Express",
+            "phoneNumber": "6983387822",
+            "mobilePhone": "9999999",
+            "insuranceProvider": "Ergo",
+            "zipCode": "55555",
+            "city": "Samos",
+            "state": "EU",
+            "country": "Greece",
+            "marritalStatus": "Single",
+            "emergencyContact": {
+                "firstName": "Luix",
+                "lastName": "Portas",
+                "middleName": "Nuestro",
+                "email": "contactmail1@mail.us",
+                "zipCode": "12345",
+                "city": "Los Angeles",
+                "state": "California",
+                "address": "St Jonson",
+                "phoneNumber": "1234567890",
+                "mobilePhone": "1234567890",
+                "relation": "Uncle",
+                "gender": "Male"
+            }
+        }
+],
 "requests": [
 { "id" : "5c584906a6caad004454f819", "status" : "pending", "title" : "Access to medical record for broken leg", "description" : "This will be a short description of the request. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum.", "reason" : "Tooth reason. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id lorem nibh. Sed purus nunc, rutrum ac posuere eu, rutrum vitae urna. In quis ex turpis. Fusce porta neque nec sodales dictum. Aliquam cursus pharetra rutrum. ", "dateCreated" : "2019-02-04T14:15:34.297Z", "dateSigned" : "2019-02-04T14:15:34.297Z", "dateExpired" : "2019-02-04T14:15:34.297Z", "dateRefused" : "2019-02-04T14:15:34.297Z", "doctorDetails": {
                 "_id": "5c5d94f9c88f793180b9a717",
